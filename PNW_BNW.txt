@@ -1,0 +1,11 @@
+===========================
+Personal Net Worth (PNW)
+===========================
+Description: 
+===============
+Formula
+================
+$totalAsset = SUM of all properties value in amount;
+$totalLiabilities = SUM of all the liabilities;
+$netWorth = $totalAsset-$totalLiabilities;
+        
